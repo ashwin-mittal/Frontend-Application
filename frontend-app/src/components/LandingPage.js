@@ -8,7 +8,7 @@ const LandingPage = () => {
         <div className="w-full my-12 flex justify-center md:justify-end md:hidden">
           <a
             href="/create"
-            className="w-1/2 text-center p-3 px-6 pt-2 text-white bg-gradient-to-r from-purple to-pink rounded baseline hover:bg-brightRedLight"
+            className="text-center p-3 px-6 pt-2 text-white bg-gradient-to-r from-purple to-pink rounded baseline hover:bg-brightRedLight"
           >
             🎉 Create my event
           </a>
@@ -35,7 +35,7 @@ const LandingPage = () => {
           <div className="max-w-md hidden justify-center md:justify-end md:flex">
             <a
               href="/create"
-              className="w-1/2 text-center p-3 px-6 pt-2 text-white bg-gradient-to-r from-purple to-pink rounded baseline hover:bg-brightRedLight"
+              className="text-center p-3 px-6 pt-2 text-white bg-gradient-to-r from-purple to-pink rounded baseline hover:bg-brightRedLight"
             >
               🎉 Create my event
             </a>
